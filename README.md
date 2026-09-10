@@ -2,6 +2,12 @@
 
 An enterprise dashboard built to provide real-time visibility into project lifecycles, covering design, production, shipment, and payments.
 
+## 🎨 Dual Theme System
+
+- **Dark Mode (Default)**: Enterprise Obsidian (`#0A0A0A`), Charcoal (`#151517`), and Champagne Gold (`#C9A86A`) accents.
+- **Light Mode**: Original Kumgang Blue (`#1688D4`) and White identity with Navy sidebar (`#0B2239`).
+- **Zero-Flash Initialization**: Inline document initialization prevents theme flickering on page refresh.
+
 ## 🚀 Tech Stack
 
 - **Framework:** React 18 + Vite
